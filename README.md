@@ -123,3 +123,4 @@ The Open-Meteo API returns WMO weather codes. Common codes:
 ## License
 
 MIT
+# claude-academy
